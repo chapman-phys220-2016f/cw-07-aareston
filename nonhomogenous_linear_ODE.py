@@ -20,10 +20,8 @@ def euler(uo, to, tf, delta_t):
     for h in range(0, int(num_points), 1):
         
         u[h+1] = u[h] + ((2 * u[h] - 1) * t_array) * delta_t
-        t_array[h+1] = t_array[h] + delta_t
         
     return u
-    return t_array
 
 def solve():
     uo = 2
