@@ -1,8 +1,8 @@
 # PHYS220 CW 7
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Aaron Grisez and Preston Kamada
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-07-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-07-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-07-aareston.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-07-aareston)
 
 **Due date:** 2016/10/18
 
@@ -23,7 +23,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+Good assignment, really liked having to delve so deeply into what it means to solve an ODE, I feel like I have a much better knowledge of what ODEs can represent.
 
 ## Honor Pledge
 
@@ -34,4 +34,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Aaron Grisez
